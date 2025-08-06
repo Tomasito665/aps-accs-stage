@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/tomasito665/aps-accs-stage/
+    type: markup
+
+folders:
+  /products/: /products/default
